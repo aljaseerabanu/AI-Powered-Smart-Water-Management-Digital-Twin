@@ -1,4 +1,4 @@
-# AI-Powered Smart Water Management Digital Twin
+AI-Powered Smart Water Management Digital Twin
 
 ## Overview
 
@@ -56,5 +56,6 @@ AI-Powered-Smart-Water-Management-Digital-Twin/
 
 ## Author
 
-Al-Jaseera Banu
+Al Jaseera Banu H
+
 B.E.Electrical and Electronics Engineering
